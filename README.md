@@ -1,4 +1,6 @@
 ![ArgosEye](argos.jpg)
+<img src="argos.jpg" width="200" height="200" />
+
 
 # ArgosEye
 
