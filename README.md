@@ -1,5 +1,6 @@
 # ArgosEye
-Automated monitoring, crawling, discovery, and ingestion of feeds and insertion into a central database for analysis.
+
+ArgosEye is an advanced system for automated monitoring, crawling, discovery, and ingestion of feeds and insertion into a central database for analysis.
 
 ## Why?
 
