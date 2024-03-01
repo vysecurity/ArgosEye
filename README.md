@@ -1,3 +1,5 @@
+![ArgosEye](argos.jpg)
+
 # ArgosEye
 
 ArgosEye is an advanced system for automated monitoring, crawling, discovery, and ingestion of feeds and insertion into a central database for analysis.
@@ -9,3 +11,4 @@ I got fed up of Threat Intel companies gatekeeping their tools, so I figured I'd
 ## Research
 
 To be released at a later date.
+
