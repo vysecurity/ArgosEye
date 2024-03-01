@@ -1,5 +1,4 @@
-![ArgosEye](argos.jpg)
-<img src="argos.jpg" width="200" height="200" />
+<center><img src="argos.jpg" width="200" height="200" /></center>
 
 
 # ArgosEye
