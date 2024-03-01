@@ -1,3 +1,7 @@
+
+<div align="center">
+    <img src="argos.jpg" width="200" height="200" />
+</div>
 <img src="argos.jpg" width="200" height="200" />
 
 
